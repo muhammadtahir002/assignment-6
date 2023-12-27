@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>class 5 </title>
+    </head>
+    <body>
+        <h1>IMAGES</h1>
+        <img src="https://img.freepik.com/free-photo/painting-mountain-lake-with-mountain-background_188544-9126.jpg"
+        alt="tomb of quaid e azam"
+        height="100px"
+        width="100px"
+        <img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg"
+        alt="tree image"
+        height="100"
+        width="100"
+        <p>lorem ipsum</p>
+    </body>
+</html>
